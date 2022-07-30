@@ -38,7 +38,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: #34675C;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -70,9 +70,9 @@ header .nav {
 	padding: 8px 15px 2px 15px;
 	position: relative;
 	z-index: -500;
-	border-top: 5px solid #696969;
+	border-top: 5px solid #34675C;
 	border-radius: 0 0 5px 5px;
-	background-color: #696969;
+	background-color: #34675C;
 	color: white;
 }
 
@@ -120,7 +120,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background-image: url('about-bg.jpg');
 	overflow: hidden;
 }
 
@@ -139,7 +139,7 @@ header h1 {
 }
 
 .foto div {
-	background: #ffffff;
+	background: #A3CCAB;
 	display: inline-block;
 	margin: 0 auto 5% auto;
 	padding: 10px 10px 5px;
